@@ -6,13 +6,17 @@ We don't do boring. We build things that make life smarter, greener, and a lot m
 
 ---
 
-### 🚀 What We Do
+### 👀 What We Do
 
 We bridge the gap between **Hardware** and **Software**. Currently, we are obsessed with:
 
 - **IoT & Automation**: Turning dumb boxes into smart robots.
 - **Smart Gardening**: Because plants deserve technology too.
 - **Firmware Engineering**: Squeezing every bit of performance out of MCUs.
+
+### 🚀 What We Are working on right now
+
+- 🌾 SaaS : Salad as a Service. Reconnecting you with nature in the concrete jungle.
 
 ### 📫 Contact
 
