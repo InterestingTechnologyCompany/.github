@@ -8,19 +8,15 @@ We don't do boring. We build things that make life smarter, greener, and a lot m
 
 ### 👀 What We Do
 
-We bridge the gap between **Hardware** and **Software**. Currently, we are obsessed with:
+We build services that change people's lives, change the world, and — most importantly — change our bank account balance. In that order. Hopefully.
 
-- **IoT & Automation**: Turning dumb boxes into smart robots.
-- **Smart Gardening**: Because plants deserve technology too.
-- **Firmware Engineering**: Squeezing every bit of performance out of MCUs.
+### 🚀 What We Are Working On Right Now
 
-### 🚀 What We Are working on right now
-
-- 🌾 SaaS : Salad as a Service. Reconnecting you with nature in the concrete jungle.
+- 🌾 **[Planty](https://planty.farm)** : Salad as a Service. Reconnecting you with nature in the concrete jungle.
+- 🇨🇦 **[uhak.ca](https://uhak.ca)** : All-in-one platform for Korean students planning to study in Canada. Course roadmaps, university comparisons, and prerequisite warnings so you don't lose a year attending wrong class.
+- 🔒 **LockIn** : Not another "focus helper" app. Throws tempting content at you while you study - survive and you win. Give in and it roasts you. Deposit-backed sessions, seasonal rankings, and user-created bait content included.
 
 ### 📫 Contact
-
 Got an interesting idea?
-
 - 📧 Email:
-- 🌍 Location: Seoul, Republic Of Korea
+- 🌍 Location: Anywhere within 0.2 light-years of Earth
